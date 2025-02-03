@@ -161,7 +161,7 @@ st.subheader("🧠 Artificial Intelligence - Quantum Processing Unit 🌟")
 with st.sidebar:
     # API Key Input
     api_key = st.text_input(
-        "Enter API Key 🔑 🌟",
+        "Enter API Key 🔑www.QuantumIntelligence.ca 🌟",
         type="password",
         value=st.session_state.get('api_key', ''),
         help="Get your API key at www.QuantumIntelligence.ca ⚛️"
